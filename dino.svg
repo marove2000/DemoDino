@@ -25,15 +25,15 @@
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="1.5535078"
-     inkscape:cx="87.543815"
-     inkscape:cy="281.94258"
+     inkscape:zoom="4.3939836"
+     inkscape:cx="226.10462"
+     inkscape:cy="159.08116"
      inkscape:window-width="1920"
-     inkscape:window-height="1038"
+     inkscape:window-height="979"
      inkscape:window-x="0"
-     inkscape:window-y="42"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g5068"
+     inkscape:current-layer="layer1"
      inkscape:document-units="mm" />
   <g
      inkscape:groupmode="layer"
@@ -58,7 +58,7 @@
      inkscape:groupmode="layer"
      id="g4211"
      inkscape:label="B.Mask"
-     style="display:inline;fill:#808000">
+     style="display:none;fill:#808000">
     <g
        id="g4199"
        style="display:inline;fill:#808000" />
@@ -80,7 +80,7 @@
      inkscape:groupmode="layer"
      id="g4098"
      inkscape:label="F.Mask"
-     style="display:inline;fill:#808000">
+     style="display:none;fill:#808000">
     <path
        id="path4084"
        style="opacity:0.99;fill:#808000;stroke:none;stroke-width:4.54679;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none"
@@ -117,7 +117,7 @@
      inkscape:groupmode="layer"
      id="g3974"
      inkscape:label="B.Keepout"
-     style="display:inline;fill:#d40000">
+     style="display:none;fill:#d40000">
     <g
        id="g3968"
        style="display:inline;fill:#d40000" />
@@ -136,7 +136,7 @@
      inkscape:groupmode="layer"
      id="g1458"
      inkscape:label="F.Keepout"
-     style="display:inline">
+     style="display:none">
     <g
        id="g1452"
        style="display:inline" />
@@ -155,7 +155,7 @@
      inkscape:groupmode="layer"
      id="g5068"
      inkscape:label="F.SilkS"
-     style="display:inline;fill:#808000">
+     style="display:none;fill:#808000">
     <path
        id="path5054"
        style="opacity:0.99;fill:#00ff00;stroke:none;stroke-width:4.54679;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none"
@@ -167,5 +167,16 @@
     <g
        id="g5058"
        style="display:inline;fill:#808000" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Drill.Cu">
+    <circle
+       style="fill:#00e800;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-dasharray:none"
+       id="path417"
+       cx="77.609062"
+       cy="36.347466"
+       r="1" />
   </g>
 </svg>
